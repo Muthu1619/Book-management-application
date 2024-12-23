@@ -39,3 +39,7 @@ Future Enhancements
 Implement a graphical user interface (GUI) for better user experience.
 Add support for searching books by author or title.
 Include advanced reporting tools for bookshop analytics.
+
+Note:  
+
+Kindly download all the txt file.
